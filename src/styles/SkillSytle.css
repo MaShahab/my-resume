@@ -1,0 +1,125 @@
+#skills_section {
+    position: relative;
+    color: rgb(17, 27, 94);
+    text-shadow: blue 1px 1px 40px;
+    /*font-family: "Bookman", Georgia, "Times New Roman", serif;*/
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 89%;
+    height: auto;
+    left: 5%;
+    margin-top: 2%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 4px;
+    margin-bottom: 2%;
+    padding-bottom: 5%;
+}
+
+.skill_item {
+    background-color: rgb(149, 189, 160);
+    width: 99%;
+    height: 90px;
+    margin: 1px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    /*float: left;*/
+    /*text-align: center;*/
+}
+
+.logos{
+    position: relative;
+    width: 40px;
+}
+
+#topUpIcon{
+    width: 40px;
+    position: absolute;
+    right: 49%;
+    top: 98%;
+    cursor: pointer;
+    background-color: rgba(232, 228, 0,0);
+    border-radius: 44%;
+}
+
+@media only screen and (max-width: 700px) {
+    #topUpIcon{
+        right: 40%;
+    }
+}
+
+
+
+@media only screen and (min-width: 768px) {
+    /*for_desktop*/
+    .col-1 {
+        width: 8.33%;
+    }
+
+    .col-2 {
+        width: 15.5%;
+    }
+
+    .col-3 {
+        width: 24.5%;
+    }
+
+    .col-4 {
+        width: 33%;
+    }
+
+    .col-5 {
+        width: 40.66%;
+    }
+
+    .col-6 {
+        width: 49%;
+    }
+
+    .col-7 {
+        width: 58.33%;
+    }
+
+    .col-8 {
+        width: 66.66%;
+    }
+
+    .col-9 {
+        width: 75%;
+    }
+
+    .col-10 {
+        width: 83.33%;
+    }
+
+    .col-11 {
+        width: 91.66%;
+    }
+
+    .col-12 {
+        width: 100%;
+    }
+
+    .skill_item {
+        float: left;
+        text-align: center;
+        position: relative;
+    }
+
+    #skills_section {
+        padding-bottom: 31%;
+        padding-left: 1%;
+
+    }
+
+    #skill_title {
+        margin-bottom: 13%;
+    }
+
+    .social-icon {
+        float: left;
+        position: relative;
+        left: 41%;
+    }
+}

@@ -1,0 +1,15 @@
+#down_icon{
+    position: fixed;
+    top: 92%;
+    left: 49%;
+    animation-name: downLogoAnim;
+    animation-duration: 1.5s;
+    animation-play-state: running;
+    animation-iteration-count: infinite;
+    /*pointer-events: none;*/
+    cursor: pointer;
+}
+
+@keyframes downLogoAnim {
+    50%   {left: 49%; top: 91%;}
+}

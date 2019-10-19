@@ -1,0 +1,92 @@
+{
+  "title": "Hello This is Mahdi Shahabdein !",
+  "subtitle": "Full Stack Dev | Open-Source Enthusiastic",
+  "links": {
+    "github": "https://github.com/MaShahab",
+    "stackoverflow": "https://stackoverflow.com/story/mahdi_shahabedin",
+    "linkedin": "https://www.linkedin.com/in/m-mahdi-shahabedin-0a1221179"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "experience" : "This is mohamad mahdi shahabedin . Full Stack developer with over 3 years experience and have been working in several developing sections consist of front-edn , back-end , phone , data scraping , machine learning and also have over 6 month experience in network (CISCo)",
+              "educational" : [{
+                "bsc": "B.Sc. degree in Computer software engineering ( Department of Technical and Engineering , Islamic Azad university north branch of Tehran, Iran. in 2019 "
+              },{
+                "msc" : "MSC : Computer Engineering student of system architecture field of Islamic Azad University Science and Research unit"
+              },{
+
+              }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "/url",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/url",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/url",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/url",
+            "title": "Python"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/url",
+            "title": "Android"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/url",
+            "title": "PHP"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/url",
+            "title": "Cisco Network"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/url",
+            "title": "MySql"
+          }
+        }
+      ]
+    }
+  ]
+}
