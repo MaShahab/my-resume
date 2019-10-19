@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-resume/static/css/main.a1d64c9f.chunk.css",
+    "main.js": "/my-resume/static/js/main.6b8461bb.chunk.js",
+    "main.js.map": "/my-resume/static/js/main.6b8461bb.chunk.js.map",
+    "runtime-main.js": "/my-resume/static/js/runtime-main.4511f30e.js",
+    "runtime-main.js.map": "/my-resume/static/js/runtime-main.4511f30e.js.map",
+    "static/js/2.e6ed66be.chunk.js": "/my-resume/static/js/2.e6ed66be.chunk.js",
+    "static/js/2.e6ed66be.chunk.js.map": "/my-resume/static/js/2.e6ed66be.chunk.js.map",
+    "index.html": "/my-resume/index.html",
+    "precache-manifest.9702dd561ebf954e7d69c248c7e13321.js": "/my-resume/precache-manifest.9702dd561ebf954e7d69c248c7e13321.js",
+    "service-worker.js": "/my-resume/service-worker.js",
+    "static/css/main.a1d64c9f.chunk.css.map": "/my-resume/static/css/main.a1d64c9f.chunk.css.map",
+    "static/media/MySQL-logo.png": "/my-resume/static/media/MySQL-logo.af25e683.png",
+    "static/media/android-logo.png": "/my-resume/static/media/android-logo.1fcb403e.png",
+    "static/media/cisco-logo.png": "/my-resume/static/media/cisco-logo.5cfae78e.png",
+    "static/media/doubleTop.png": "/my-resume/static/media/doubleTop.0143a61b.png",
+    "static/media/javaScript_logo.png": "/my-resume/static/media/javaScript_logo.79046a55.png",
+    "static/media/php-logo.png": "/my-resume/static/media/php-logo.8d1658b1.png",
+    "static/media/python_logo.png": "/my-resume/static/media/python_logo.067050f6.png",
+    "static/media/react_logo.png": "/my-resume/static/media/react_logo.a117bf9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4511f30e.js",
+    "static/js/2.e6ed66be.chunk.js",
+    "static/css/main.a1d64c9f.chunk.css",
+    "static/js/main.6b8461bb.chunk.js"
+  ]
+}
